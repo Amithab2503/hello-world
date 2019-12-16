@@ -1,2 +1,3 @@
 # hello-world
-Hello Sugar Labs. My name is Amithab.
+Hello Sugar Labs.
+My first Repository
